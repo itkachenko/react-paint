@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  background: #3c3f41;
+  padding: 10px;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.side-bar__head {
+  background: #696C6E;
+}
